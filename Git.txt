@@ -1,0 +1,16 @@
+Git
+
+git commands
+git init
+git remote add origin https://github.com/NaveenprabhuT/Gitclass.git
+git config --global user.name "Naveen" 
+git config --global user.email "naveenprabhutamilselvan@gmail.com"
+git add git.html
+git commit -m "created git.html"
+
+git diff
+git branch
+git branch local
+git branch
+git checkout local
+
